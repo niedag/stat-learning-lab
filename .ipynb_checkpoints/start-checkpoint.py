@@ -3,3 +3,8 @@
 import pandas as pd
 import numpy as np
 
+
+# For visualization - Graphics and Plotting
+from matplotlib.pyplot import subplots
+
+print('Your favorite libraries have been loaded.')

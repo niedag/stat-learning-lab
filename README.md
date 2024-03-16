@@ -4,6 +4,3 @@ To have a Python script execute when you launch Jupyter Notebook for an entire d
 
 Generate a config file with ```jupyter notebook --generate-config```
 For Ubuntu, this file is located at ~/.jupyter/
-
-Add the path directory for the jupyter notebook files to the config file
-Set start.py to run on initialization
