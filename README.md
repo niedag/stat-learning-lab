@@ -7,4 +7,5 @@ To have a Python script execute when you launch Jupyter Notebook for an entire d
 
 Generate a config file with ```jupyter notebook --generate-config```
 This file is located at ~/.jupyter/
+
 There is a way to locally create a .config file for Jupyter Notebook but Idk how to do that yet
